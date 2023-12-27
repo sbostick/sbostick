@@ -1,5 +1,11 @@
 ### hello.
 
+The quick brown fox jumps over the lazy dog.
+
+<!--
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
+-->
 <!--
 **sbostick/sbostick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
